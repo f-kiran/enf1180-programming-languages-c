@@ -14,8 +14,7 @@ Course Materials:  GitHub, Online Yildiz
 
 # Textbook and course Materials
 
-•	Main Textbook:
+-	Main Textbook:
 C How to Program, 6/e Harvey M. Deitel and Paul J. Deitel, Pearson Inc. 2010 (or Newer)
-•	Other useful links:
-www.cplusplus.com
-http://www.codingunit.com
+
+-	Other useful links: www.cplusplus.com, http://www.codingunit.com
